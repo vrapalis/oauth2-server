@@ -1,4 +1,4 @@
 rootProject.name = 'oauth2-server'
 
 include('app')
-include('libs', 'libs:server-starter')
+include('libs', 'libs:server-starter', 'libs:server-core')
