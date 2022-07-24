@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 S
 #libs/server-starter/settings.gradle,7\8\78d5b4a48f738f0f390417af0f7b731ff76e401b
 E
@@ -39,3 +37,5 @@ xlibs/server-core/src/main/java/com/vrapalis/www/libs/oauth2/core/domain/securit
 ulibs/server-core/src/main/java/com/vrapalis/www/libs/oauth2/core/domain/security/UserRepositoryOAuth2UserHandler.java,b\1\b13cdb712d3b71bc95fe89a34c9356e9d214e35a
  
 plibs/server-core/src/main/java/com/vrapalis/www/libs/oauth2/core/config/LibsOauth2CoreSecurityConfiguration.java,3\2\32221652e7652d591a38ba17e2754b2e23674cca
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
