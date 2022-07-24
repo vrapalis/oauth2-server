@@ -1,0 +1,7 @@
+plugins {
+    id 'oauth2.server.spring-boot-library-conventions' apply false
+}
+
+subprojects {
+    apply plugin: 'oauth2.server.spring-boot-library-conventions'
+}

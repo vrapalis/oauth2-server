@@ -1,0 +1,8 @@
+plugins {
+    id 'oauth2.server.spring-boot-application-conventions'
+}
+
+dependencies {
+    implementation project(':libs:server-starter')
+}
+

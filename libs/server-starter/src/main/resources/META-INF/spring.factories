@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.vrapalis.www.libs.oauth2.server.starter.config.OAuth2ServerCoreAutoConfiguration

@@ -1,0 +1,4 @@
+rootProject.name = 'backend'
+
+include('apps', 'apps:server')
+include('libs', 'libs:server-starter', 'libs:server-core')
