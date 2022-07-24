@@ -11,7 +11,7 @@ import {authCodeFlowConfig} from './auth.config';
 export class AppComponent {
   constructor(private oauthService: OAuthService) {
     this.oauthService.configure(authCodeFlowConfig);
-    this.oauthService.loadDiscoveryDocumentAndLogin().then(console.log);
+    this.oauthService.loadDiscoveryDocumentAndLogin();
 
     //this.oauthService.setupAutomaticSilentRefresh();
 
