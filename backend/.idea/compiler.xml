@@ -13,7 +13,7 @@
         <module name="backend.apps.server.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
+    <bytecodeTargetLevel target="18">
       <module name="server" target="11" />
       <module name="server-core" target="17" />
       <module name="server-core.main" target="17" />
